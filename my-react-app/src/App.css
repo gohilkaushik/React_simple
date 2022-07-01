@@ -173,3 +173,9 @@ input[type=submit] {
   border: 1px solid;
   cursor: pointer;
 }
+.contect-slider {
+  margin: 20px 0px;
+}
+.about-slider .card {
+  margin: 14px;
+}

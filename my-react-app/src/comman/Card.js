@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-import serviceimg from '../images/ser-1.jpg';
 
 const Card = (props) => {
     return(
